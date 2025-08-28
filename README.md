@@ -36,7 +36,7 @@ Clone the repository:
 
 bash
 git clone https://github.com/VastScientist69/Packet-Sniffer.git
-cd stealth-packet-capture
+cd Packet-Sniffer
 Install required dependencies:
 
 bash
